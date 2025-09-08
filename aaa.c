@@ -22,5 +22,6 @@ int main()
 	arr[i1] = i1;
 	for ( i1 = 0; i1 < 100 ; i1 ++ )
 	//	printf( "i1 xunhuan \n");	
+	printf("add for github");
 	return 0;
 }
