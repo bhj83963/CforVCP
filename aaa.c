@@ -24,5 +24,4 @@ int main()
 	//	printf( "i1 xunhuan \n");	
 	printf("add for github");
 	return i1;
-	return i2;
 }
